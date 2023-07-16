@@ -1,2 +1,2 @@
 # jungs
-my first repository on Git Hub
+# my first repository on Git Hub
